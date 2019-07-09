@@ -46,11 +46,7 @@ roles:
 
 #Education is required
 education: 
- - level: Post Graduation Diploma in Information Technology (PGDIT)
-   date: 2012
-   subject: Information Technology
-   school: Symbiosis Centre of Distance Learning, Pune. India
- - level: Bachelor of Technology (B.Tech.)
+  - level: Bachelor of Technology (B.Tech.)
    date: 2009
    subject: Information Technology
    school: Guru Gobind Singh Indraprastha University, Delhi. India
