@@ -27,17 +27,17 @@ roles:
    start: 2015
    end: 2017
    employer: CSC Technology
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   description: Work Primarily with Asset Risk Management Team Projects based on the Agile Manifesto and Methodology.
  - title: Senior Developer
    start: 2012
    end: 2015
    employer: CSC Technology
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
+   description: Working mainly on development and architecture work using HPAM and interface tools.
  - title: Developer
    start: 2010
    end: 2012
    employer: CSC Technology
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   description: Working on Administrative and Tailoring part, Form Designing, format and Link Control as per customer requirement.
 
 #Education is required
 education:
