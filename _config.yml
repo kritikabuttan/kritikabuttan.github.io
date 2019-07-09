@@ -45,7 +45,7 @@ roles:
    description: Working on Administrative and Tailoring part, Form Designing, format and Link Control as per customer requirement.
 
 #Education is required
-education:
+education: 
  - level: Post Graduation Diploma in Information Technology (PGDIT)
    date: 2012
    subject: Information Technology
