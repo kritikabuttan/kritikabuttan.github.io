@@ -46,7 +46,7 @@ roles:
 
 #Education is required
 education:
- - level: "Bachelor of Science (B.Sc.)"
+ - level: Bachelor of Science (B.Sc.)
    date: 2003
    subject: Artificial Intelligence and Computer Science
    school: University of Birmingham
