@@ -41,10 +41,10 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Bachelor of Technology (B.Sc.)
+   date: 2009
+   subject: Information Technology
+   school: Guru Gobind Singh Indraprastha University,Delhi
 
 #This section is optional (as is the image link below)
 
