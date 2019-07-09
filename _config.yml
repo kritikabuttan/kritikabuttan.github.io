@@ -54,53 +54,25 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Post Graduation Diploma in Information Technology (PGDIT)
+   date: 2012
+   subject: Information Technology
+   school: Symbiosis Centre of Distance Learning, Pune. India
+   
+ - level: Bachelor of Technology (B.Tech.)
+   date: 2009
+   subject: Information Technology
+   school: Guru Gobind Singh Indraprastha University, Delhi. India
+   
+   Certification: |
+    •	ITIL V3 foundation – March 2011 <br/><br/>
+    •	HP Service Manager 7.11. – May 2011 <br/><br/>
+    •	HP Asset Manager 9.x – January 2016 <br/><br/>
+    •	Oracle SQL Certification 1Z0-047 – Dec 2012 <br/><br/>
+    •	Agile Certification – January 2018 <br/><br/>
+    •	Certified Scrum Master – March 2018 <br/><br/>
+    •	Certified Associate in Project Management – April 2018. <br/><br/>
 
-#This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
-
-#This section is optional - embeds slideshows from speakerdeck
-# to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
-
-#List of interesting Github repo/projects to include - optional
-github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
-
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
   •	Over 9 years of experience in Leading the Development and deployment of Automation Tools- HPAM, Service Now, Universal Configuration Management system (UCMDB), Universal Discovery, Connect IT and HPSM, Agile-Scrum Master and SAFe Agile Framework. Over 4 years of experience in Project Handling and Team Co-ordination. 6 Months of Onsite Experience. <br/><br/>
